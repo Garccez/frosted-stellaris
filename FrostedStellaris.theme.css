@@ -86,4 +86,7 @@
   /* HorizontalServerList Vars */
   --HSL-server-icon-size: 40px;
   --HSL-server-spacing: 10px;
+  
+  /* TypingAtTopOfChatBox */
+  --version001_tatocb: none;
 }
